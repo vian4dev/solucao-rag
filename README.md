@@ -41,10 +41,15 @@ cd solucao-rag/
 Crie o arquivo .env na raiz do diretório.
 ~~~
 OPENAI_API_KEY_URL=""
-
 ~~~
-
-
+Instale as dependências.
+~~~
+pip install -r requirements.txt
+~~~
+Execute a aplicação.
+~~~
+main.ipynb
+~~~
 
 ## 📝 Licença
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
