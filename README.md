@@ -46,7 +46,7 @@ Instale as dependências.
 ~~~
 pip install -r requirements.txt
 ~~~
-Execute a aplicação.
+Execute a aplicação no Jupyter Notebook ou VScode.
 ~~~
 main.ipynb
 ~~~
