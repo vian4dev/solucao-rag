@@ -1,15 +1,15 @@
 <div align="center">
-  <a href="https://github.com/vian4dev/ignite-time/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/vian4dev/ignite-time?style=social">
+  <a href="https://github.com/vian4dev/solucao-rag/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/vian4dev/solucao-rag?style=social">
   </a>
   
   <img alt="PRs welcome!" src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=7159c1&labelColor=000000" />
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/vian4dev/ignite-time?color=%2304D361">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/vian4dev/ignite-time">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/vian4dev/solucao-rag?color=%2304D361">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/vian4dev/solucao-rag">
 	
-  <a href="https://github.com/vian4dev/ignite-time/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vian4dev/ignite-time">
+  <a href="https://github.com/vian4dev/solucao-rag/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vian4dev/solucao-rag">
   </a>
   
   <a href="https://www.linkedin.com/in/vianadev/">
@@ -21,7 +21,7 @@
   <img src="https://raw.githubusercontent.com/vian4dev/vian4dev/bfae0da7d97ab8f10a008d3fdea6f2e2181fa3ca/.github/rocketseat.svg" width="250" height="250" alt="Rocketseat">
 </div>
 
-# Ignite Time
+# Solução RAG
 
 ## ✒️ Descrição
 
