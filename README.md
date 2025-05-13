@@ -31,6 +31,7 @@
 </div>
 
 ## 📷 Demostração
+Apresentação do esquema do aplicação.
 <div align="center">
   <img src="./.github/arquitetura-rag-simples.png" alt="arquitetura-rag-simples" />
 </div>
