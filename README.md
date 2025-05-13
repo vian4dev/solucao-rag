@@ -29,8 +29,21 @@
 
 ## 📷 Demostração
 
-
 ## 🔥 Instalação
+Clone o repositório.
+~~~
+git clone git@github.com:vian4dev/solucao-rag.git
+~~~
+Acesse o diretório do projeto.
+~~~
+cd solucao-rag/
+~~~
+Crie o arquivo .env na raiz do diretório.
+~~~
+OPENAI_API_KEY_URL=""
+
+~~~
+
 
 
 ## 📝 Licença
