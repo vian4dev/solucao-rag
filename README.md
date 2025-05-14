@@ -48,6 +48,8 @@ cd solucao-rag/
 Crie o arquivo .env na raiz do diretório.
 ~~~
 OPENAI_API_KEY_URL=""
+
+⚠️ Será necessário gerar um token na OpenAI platform.
 ~~~
 Instale as dependências.
 ~~~
