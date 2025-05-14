@@ -24,6 +24,7 @@
 # Solução RAG
 
 ## ✒️ Descrição
+O RAG, ou Retrieval Augmented Generation, é uma técnica que combina a recuperação de informações com a geração de respostas para melhorar a qualidade das respostas de um modelo de linguagem. Ao recuperar dados de diferentes fontes, como documentos e bancos de dados, o modelo consegue fornecer respostas mais precisas e atualizadas. Nesta aplicação desenvolvida, mostro um processo simplificado do uso dessa técnica utilizando um documento PDF.
 
 ## 🚀 Tecnologias utilizadas
 <div style="display: inline_block"><br>
